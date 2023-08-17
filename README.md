@@ -18,8 +18,8 @@ IITP 2차년도 demo
 가명화하고자 하는 열 번호와 조건이 적힌 Benchmark.json 이 필요함
 
 {
-3: "Masking, 5"
-5: "Encryption"
+3: "Masking, 5",
+5: "Encryption",
 12: "Round, 3"
 }
 
