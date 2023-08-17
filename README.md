@@ -14,15 +14,13 @@ IITP 2차년도 demo
 - Random : 열 전체 randomize 
 ```
 
-```
 가명화하고자 하는 열 번호와 조건이 적힌 Benchmark.json 이 필요함
-
+```
 {
 3: "Masking, 5",
 5: "Encryption",
 12: "Round, 3"
 }
-
 ```
 
 실행방법
