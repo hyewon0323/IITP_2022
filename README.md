@@ -26,5 +26,5 @@ IITP 2차년도 demo
 실행방법
 ```bash
 mvn clean install
-hadoop jar target/demo-1.0.jar example.App {input hdfs path} {output hdfs path} columns.json 
+hadoop jar target/demo-1.0.jar example.App {input hdfs path} {output hdfs path} Benchmark.json 
 ```
